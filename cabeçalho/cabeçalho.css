@@ -1,0 +1,14 @@
+body {
+	font-family: Pacific, cursive;
+}
+.cabeçalho {
+	align-items: center;
+	background: #f9f9f9;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 2rem;
+    padding-right: 2rem;
+    
+	
+
+}
